@@ -1,0 +1,10 @@
+beautifulsoup4==4.3.1
+boto==2.15.0
+gevent==0.13.8
+geventconnpool==0.2
+greenlet==0.4.1
+html5lib==1.0b3
+selenium==2.35.0
+six==1.4.1
+wsgiref==0.1.2
+pymongo==2.8
